@@ -16,7 +16,7 @@ referenced document:  [nextcloud WebDAV basics](https://docs.nextcloud.com/serve
 
 #### eg
 
-<img src="https://cloud.compassak.top/s/HBd9fTpp6e4qs4q/preview" alt="image-20230910152204728" style="zoom:80%;" />
+<img src="https://cloud.compassak.top/s/HBd9fTpp6e4qs4q/preview" alt="image-20230910152204728" style="zoom:60%;" />
 
 
 
